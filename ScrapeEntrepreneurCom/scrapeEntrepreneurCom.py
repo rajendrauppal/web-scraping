@@ -2,6 +2,10 @@
 # -*- coding: utf-8 -*-
 
 
+def scrape(link):
+    pass
+
+
 def main():
     pass
     
